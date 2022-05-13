@@ -15,9 +15,9 @@ participante disputou exatamente seis jogos. O professor vai usar o desempenho n
 para separar as crianças em três grupos, de forma a ter grupos de treino em que os
 participantes tenham habilidades mais ou menos iguais, usando o seguinte critério:
 
-participantes que venceram 5 ou 6 jogos serão colocados no Grupo 1;
-participantes que venceram 3 ou 4 jogos serão colocados no Grupo 2;
-participantes que venceram 1 ou 2 jogos serão colocados no Grupo 3;
++ participantes que venceram 5 ou 6 jogos serão colocados no Grupo 1;
++ participantes que venceram 3 ou 4 jogos serão colocados no Grupo 2;
++ participantes que venceram 1 ou 2 jogos serão colocados no Grupo 3;
 
 participantes que não venceram nenhum jogo não serão convidados a continuar com os
 treinamentos.
