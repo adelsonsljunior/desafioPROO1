@@ -18,8 +18,7 @@ participantes tenham habilidades mais ou menos iguais, usando o seguinte critér
 + participantes que venceram 5 ou 6 jogos serão colocados no Grupo 1;
 + participantes que venceram 3 ou 4 jogos serão colocados no Grupo 2;
 + participantes que venceram 1 ou 2 jogos serão colocados no Grupo 3;
-
-participantes que não venceram nenhum jogo não serão convidados a continuar com os
++ participantes que não venceram nenhum jogo não serão convidados a continuar com os
 treinamentos.
 
 Faça um programa que para vários participantes, informe em qual grupo ele será alocado e
