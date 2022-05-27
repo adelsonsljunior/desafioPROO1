@@ -2,7 +2,7 @@
 
 Atividade Avaliativa proposta pela professora Cledja Rolim na disciplina de Programação Orientada à Objetos (PROO)
 
-Feita em dupla com Felipe de Lima (https://github.com/Felipkw)
+Feita em dupla com [Felipe de Lima](https://github.com/Felipkw)
 
 # Desafio:
 
