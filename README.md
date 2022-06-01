@@ -2,7 +2,7 @@
 
 Atividade Avaliativa proposta pela professora Cledja Rolim na disciplina de Programação Orientada à Objetos (PROO)
 
-Feita em dupla com [Felipe de Lima](https://github.com/Felipkw)
+Feita em dupla por: Adelson Santos e [Felipe de Lima](https://github.com/Felipkw)
 
 # Desafio:
 
@@ -31,11 +31,11 @@ ou P se o jogador perdeu o jogo. Não há empates nos jogos.
 
 Exemplo de entrada para um participante:
 
-V
-V
-P
-P
-P
+V <br>
+V <br>
+P <br>
+P <br>
+P <br>
 V
 
 Saída
