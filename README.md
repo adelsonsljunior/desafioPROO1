@@ -23,7 +23,8 @@ treinamentos.
 
 Faça um programa que para vários participantes, informe em qual grupo ele será alocado e
 quantos participantes ficou em cada grupo.
-Entrada
+
+**Entrada**
 
 A entrada consiste de seis linhas, para cada jogador, cada linha indicando o resultado de um
 jogo do participante. Cada linha contém um único caractere: V se o participante venceu o jogo,
@@ -38,7 +39,7 @@ P <br>
 P <br>
 V
 
-Saída
+**Saída**
 
 Seu programa deverá informar qual o grupo o participante será alocado e quantos alunos
 foram alocados em cada grupo.
