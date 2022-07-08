@@ -1,8 +1,8 @@
 # desafioPROO1
 
-Atividade Avaliativa proposta pela professora Cledja Rolim na disciplina de Programação Orientada à Objetos (PROO)
+Atividade Avaliativa proposta pela professora Cledja Rolim na disciplina de Programação Orientada a Objetos (PROO)
 
-Feita em dupla por: Adelson Santos e [Felipe de Lima](https://github.com/Felipkw)
+Dupla: Adelson Santos Lima Júniore [Felipe de Lima Batista](https://github.com/Felipkw)
 
 # Desafio:
 
